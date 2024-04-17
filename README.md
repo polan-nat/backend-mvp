@@ -36,7 +36,7 @@ Para iniciar a aplicação, siga estas etapas:
 A aplicação será iniciada e estará disponível em http://localhost:5000.
 
 ## Endpoints
-GET /buscar_usuarios: Retorna a lista de todos os usuários cadastrados.
-POST /cadastrar_usuario: Cadastra um novo usuário.
-GET /buscar_usuario/<id>: Retorna os detalhes de um usuário específico com o ID fornecido.
-DELETE /deletar_usuario/<id>: Deleta um usuário com o ID fornecido.
+- GET /buscar_usuarios: Retorna a lista de todos os usuários cadastrados.
+- POST /cadastrar_usuario: Cadastra um novo usuário.
+- GET /buscar_usuario/<id>: Retorna os detalhes de um usuário específico com o ID fornecido.
+- DELETE /deletar_usuario/<id>: Deleta um usuário com o ID fornecido.
